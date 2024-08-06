@@ -1,6 +1,6 @@
 <h1 align="center">Github Readme Activity Graph</h1>
 
-<h2 align="center">Fonte: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github.com/Ashutosh00710/github-readme-activity-graph</a> </h2>
+<h5 align="center">Fonte: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github.com/Ashutosh00710/github-readme-activity-graph</a> </h5>
 
 ## O que é?
 
@@ -11,7 +11,8 @@ O **GitHub Readme Activity Graph** é uma ferramenta que permite adicionar um gr
 - **Customização:** Você pode personalizar cores e o período de tempo que o gráfico exibe.
 - **Atualização Automática:** O gráfico é atualizado automaticamente para refletir suas atividades mais recentes.
 
-|       theme=**react-dark**       |   <img src="./image_example.png" height=250 alt="graph"/>   |
+theme=**react-dark**
+<img src="./image_example.png" height=250 alt="graph"/>
 
 ## Como usar
 
